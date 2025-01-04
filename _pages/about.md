@@ -9,18 +9,16 @@ redirect_from:
 
 I completed my undergraduate studies in Financial Mathematics at the University of Leeds. Driven by my strong in strong interest in statistics and programming, I went to University of Cambridge to finish an MPhil in Data Intensive Science. Currently, I am a Research Assistant in [Brian Lim's](https://www.brianlim.net/) Lab, where my research focuses on explainable AI, human-computer interaction (HCI), and AI applications in healthcare. I am actively working on a project related to explainable facial recognition with [Wencan](https://wencanz.github.io/).
 
-For more details about my experience, please refer to my CV and portfolio.
-
 Education
 ======
 * MPhil in Data Intensive Science, University of Cambridge, 2023 Oct - 2024 Jul
-  * GPA: 4.8/5.0 | Core Courses: Principle of Data Science, Applied Data Science, Research Computing and Software
+  * **GPA**: 4.8/5.0 | **Core Courses**: Principle of Data Science, Applied Data Science, Research Computing and Software
 Development, Application of Machine Learning, Statistical Methods for Data Science, Medical Imaging, Image Analysis
-  * Project: Feature Sensitivity and Model Discrimination in Preclinical Breast Cancer Photoacoustic Imaging
+  * **Project**: Feature Sensitivity and Model Discrimination in Preclinical Breast Cancer Photoacoustic Imaging
 * BSc in Financial Mathematics, University of Leeds, 2020 Sep - 2023 Jul
-  * GPA: First-Class with Honours | Core Courses: Calculus, Stochastic Calculus, Markov Process, Linear Algebra, Time Series,
+  * **GPA**: First-Class with Honours | **Core Courses**: Calculus, Stochastic Calculus, Markov Process, Linear Algebra, Time Series,
 Computing in Mathematics, Analytic Solutions of PDEs, Advanced Finance, Statistical Methods, Optimisation
-  * Awards: Leeds Bursary — £2,000 every academic year, Leeds UG Summer Bursaries — £1,600
+  * **Awards**: Leeds Bursary — £2,000 every academic year, Leeds UG Summer Bursaries — £1,600
     
 Work experience
 ======
