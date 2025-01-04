@@ -11,4 +11,11 @@ I completed my undergraduate studies in Financial Mathematics at the University 
 
 For more details about my experience, please refer to my CV and portfolio.
 
-title: "Experience"
+---
+permalink: /
+title: "Experience."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
