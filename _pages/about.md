@@ -37,11 +37,11 @@ developing visual explanations tailored to user interaction
 
 Current Project
 ======
-title: "explainable face recognition"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Screenshot 2025-01-04 at 13.20.37.png'>"
+**Explainable Face Recognition**
+<br/><img src='/images/Screenshot 2025-01-04 at 13.20.37.png'>
 
-title: "Explainable multimodal diagnosis"
-excerpt: "<br/><img src='/images/Screenshot 2025-01-04 at 13.25.37.png'>"
+**Explainable Multimodal Diagnosis**
+<br/><img src='/images/Screenshot 2025-01-04 at 13.25.37.png'>
 
 Skills
 ======
