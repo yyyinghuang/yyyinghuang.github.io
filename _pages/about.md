@@ -58,5 +58,5 @@ Interests
 ======
 * Badminton
 * Coffee
-* Travling
+* Traveling
 * Dance
