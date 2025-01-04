@@ -11,16 +11,46 @@ I completed my undergraduate studies in Financial Mathematics at the University 
 
 For more details about my experience, please refer to my CV and portfolio.
 
-Eduction Experience
+Education
 ======
-University of Cambridge,                     Oct 2023 - Jul 2024
-MPhil in Data Intensice Science 
+* MPhil in Data Intensive Science, University of Cambridge, 2023 Oct - 2024 Jul
+  * GPA: 4.8/5.0 | Core Courses: Principle of Data Science, Applied Data Science, Research Computing and Software
+Development, Application of Machine Learning, Statistical Methods for Data Science, Medical Imaging, Image Analysis
+  * Project: Feature Sensitivity and Model Discrimination in Preclinical Breast Cancer Photoacoustic Imaging
+* BSc in Financial Mathematics, University of Leeds, 2020 Sep - 2023 Jul
+  * GPA: First-Class with Honours | Core Courses: Calculus, Stochastic Calculus, Markov Process, Linear Algebra, Time Series,
+Computing in Mathematics, Analytic Solutions of PDEs, Advanced Finance, Statistical Methods, Optimisation
+  * Awards: Leeds Bursary — £2,000 every academic year, Leeds UG Summer Bursaries — £1,600
+    
+Work experience
+======
+* Research Assistant, National University of Singapore, Aug 2024 - present
+  * Participated in a project on explainable facial recognition, designing a framework and interface to enhance user understanding
+  * Integrated psychological considerations of human cognition into the facial recognition process by segmenting facial regions and
+developing visual explanations tailored to user interaction
+  * Applied transformer architecture and relative position encoding to facial features similarity to improve model interpretability
+  * Engaged in full research cycle including literature review, method design, coding implementation and preparation for publication
+ 
+* Summer Intern, Deloitte IBond (Shanghai) Company Limited, Jun 2023 - Sep 2023
+  * Proficiently utilized SQL for data extraction and preprocessing from financial databases such as Wind and Tonghuashun
+  * Developed a stock market early-warning model using machine learning, achieving ~ 80% accuracy and recall in quarterly tests
+  * Efficiently managed and organized raw data from multiple industries using Excel’s VLOOKUP and pivot tables
+  * Served as the intern team leader, distinguished by exceptional data processing efficiency and communication skills
+  
+Skills
+======
+* Python
+* SQL
+* Linux
+* Git
+* R Studio
+* LaTeX
+* Microsoft Office
+* Fluent in English and Mandarin
 
-Work Experience
+Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Badminton
+* Coffee
+* Travling
+* Dance
