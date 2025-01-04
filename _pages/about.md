@@ -34,7 +34,15 @@ developing visual explanations tailored to user interaction
   * Developed a stock market early-warning model using machine learning, achieving ~ 80% accuracy and recall in quarterly tests
   * Efficiently managed and organized raw data from multiple industries using Excel’s VLOOKUP and pivot tables
   * Served as the intern team leader, distinguished by exceptional data processing efficiency and communication skills
-  
+
+Current Project
+======
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 Skills
 ======
 * Python
