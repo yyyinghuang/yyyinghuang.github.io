@@ -45,18 +45,9 @@ Current Project
 
 Skills
 ======
-* Python
-* SQL
-* Linux
-* Git
-* R Studio
-* LaTeX
-* Microsoft Office
+* Python, SQL, Linux, Git, R Studio, LaTeX, LaTeX
 * Fluent in English and Mandarin
 
 Interests
 ======
-* Badminton
-* Coffee
-* Traveling
-* Dance
+* Badminton, Coffee, Travel, Dance
