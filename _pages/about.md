@@ -13,7 +13,7 @@ I am a first-year PhD student at the National University of Singapore, working w
   I am interested in bringing human perspectives into AI systems. My work is inspired by psychology and cognitive science, and focuses on how people perceive, reason about, and interact with intelligent systems. My goal is to make space for the human voice in computer science and bridge understanding between people and intelligent systems.
 
 * **Explainable AI (XAI)**  
-  Rather than chasing state-of-the-art performance, I focus on understanding why models behave the way they do, and how this understanding can support human interpretation and use.
+  Rather than chasing state-of-the-art performance, I focus on understanding why models behave the way they do, and how this understanding can support human interpretation and use, especially in high-stakes settings.
 
 Education
 ======
