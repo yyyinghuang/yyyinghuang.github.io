@@ -29,4 +29,82 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<!-- Custom Timeline Styles -->
+<style>
+.education-timeline {
+  position: relative;
+  padding: 20px 0;
+  margin: 30px 0;
+}
+
+.education-timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to top, #52adc8, #667eea);
+}
+
+.timeline-item {
+  position: relative;
+  padding: 20px 0 20px 60px;
+  margin-bottom: 20px;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: 13px;
+  top: 24px;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: #667eea;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 3px #667eea;
+}
+
+.timeline-item:first-child::before {
+  background: #52adc8;
+  box-shadow: 0 0 0 3px #52adc8;
+  width: 18px;
+  height: 18px;
+  left: 11.5px;
+}
+
+.timeline-content {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-content:hover {
+  transform: translateX(5px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.timeline-content h3 {
+  margin: 0 0 8px 0;
+  color: #333;
+  font-size: 1.2em;
+}
+
+.timeline-content .degree {
+  color: #666;
+  font-style: italic;
+  margin: 5px 0;
+  font-size: 0.95em;
+}
+
+.timeline-content .date {
+  color: #52adc8;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+</style>
+
 <!-- end custom head snippets -->
