@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the National University of Singapore, working with [Prof. Brian Lim](https://www.brianlim.net/) My research lies in human-centerd AI, particularly in:
+I am a first-year PhD student at the National University of Singapore, working with [Prof. Brian Lim](https://www.brianlim.net/) My research lies in:
 
 * **Human–Computer Interaction (HCI)**  
   I am interested in bringing human perspectives into AI systems. My work is inspired by psychology and cognitive science, and focuses on how people actually perceive, reason about, and interact with intelligent systems. I hope to make space for the human voice in computer science and help bridge understanding between people and intelligent systems.
